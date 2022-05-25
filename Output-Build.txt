@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: ConsoleApp3, Configuration: Debug Any CPU ------
+1>C:\Users\ADMIN\Desktop\Git in one video\Program1.cs(5,11,5,18): error CS0101: The namespace 'ConsoleApp3' already contains a definition for 'Program'
+1>C:\Users\ADMIN\Desktop\Git in one video\Program1.cs(7,21,7,25): error CS0111: Type 'Program' already defines a member called 'Main' with the same parameter types
+1>Done building project "ConsoleApp3.csproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
