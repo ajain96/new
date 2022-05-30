@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 public class AbstractClass
 {
     public static void Main(string[] args)
